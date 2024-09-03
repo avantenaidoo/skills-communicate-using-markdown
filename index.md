@@ -6,4 +6,9 @@
 
 ![theDMjpIMG](https://github.com/user-attachments/assets/183b7b97-ce9c-4d13-b177-026916487714)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 
